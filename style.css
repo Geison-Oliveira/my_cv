@@ -1,0 +1,28 @@
+html{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 12 px;
+}
+h2{
+    color: rgba(0, 120, 255, 0.860);
+}
+p{
+    text-align: justify;
+}
+.location{
+    font-size: larger;
+}
+.contact{
+    color: rgba(0, 120, 255, 0.860);
+}
+a:hover{
+    background-color: antiquewhite;
+}
+a:link{
+    color:rgba(0, 120, 255, 0.860);
+}
+a:visited{
+    color:rgba(0, 120, 255, 0.860);
+}
+.details{
+    color: gray;
+}
